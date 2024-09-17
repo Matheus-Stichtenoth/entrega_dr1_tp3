@@ -1,0 +1,9 @@
+pandas
+streamlit
+numpy
+matplotlib
+openpyxl
+docx2txt==0.8
+xlrd==2.0.1
+pyxlsb
+xlrd
